@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.705
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyHome", "MyHome\MyHome.csproj", "{66DE9148-F1E1-4E2E-BA4A-D2D78054E388}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyHome", "MyHome\MyHome.csproj", "{66DE9148-F1E1-4E2E-BA4A-D2D78054E388}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceMyHome", "InterfaceMyHome\InterfaceMyHome.csproj", "{466C29BB-6DCB-4C27-A94A-C61DB3A4E7CE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{66DE9148-F1E1-4E2E-BA4A-D2D78054E388}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{66DE9148-F1E1-4E2E-BA4A-D2D78054E388}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{66DE9148-F1E1-4E2E-BA4A-D2D78054E388}.Release|Any CPU.Build.0 = Release|Any CPU
+		{466C29BB-6DCB-4C27-A94A-C61DB3A4E7CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{466C29BB-6DCB-4C27-A94A-C61DB3A4E7CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{466C29BB-6DCB-4C27-A94A-C61DB3A4E7CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{466C29BB-6DCB-4C27-A94A-C61DB3A4E7CE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
